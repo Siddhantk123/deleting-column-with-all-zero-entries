@@ -1,0 +1,2 @@
+This programme will take the inpout as any csv file or excell sheet and
+the it will remove the column which will have all the value as 0 in that column
